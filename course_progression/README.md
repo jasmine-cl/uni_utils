@@ -4,7 +4,7 @@ A small Node.js project for checking completed and in-progress courses against U
 
 The project reads course requirement data from CSV files, compares it against a transcript CSV, and prints a simple progression report with green ticks and red crosses.
 
-***This tool is only intended as a rough personal guide. Please do not treat its output as an official source of truth for I am but a wee lass and can make mistakes ♡**
+**This tool is only intended as a rough personal guide. Please do not treat its output as an official source of truth for I am but a wee lass and can make mistakes ♡**
 
 ## What it does
 
