@@ -23,10 +23,10 @@ Create a `transcript.csv` file in the project root.
 Example:
 
 ```csv
-course,grade,unitValue
-CSSE1001,6,2
-COMP2048,5,2
-MATH1051,W,2
+courseCode,courseName,grade,unitValue,gradePoints
+CSSE1001,Software Engineering,4,2,8
+DECO1400,Introduction to Web Design,6,2,12
+MATH1051,Calculus & Linear Algebra I,W,2
 ```
 
 Required columns:
