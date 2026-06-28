@@ -1,0 +1,4 @@
+reports/
+transcript.csv
+node_modules/
+.DS_Store

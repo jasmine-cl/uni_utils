@@ -1,0 +1,14 @@
+{
+  "name": "course_progression",
+  "version": "1.0.0",
+  "description": "Checks completed UQ BCompSc 2022 courses against CSV-based program requirements.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node src/index.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.6"
+  }
+}

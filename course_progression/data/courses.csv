@@ -1,0 +1,68 @@
+course_code,title,units,level,semesters,source_url,notes
+COMP2048,Theory of Computing,2,2,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,BCompSc core
+COMP3506,Algorithms and Data Structures,2,3,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,BCompSc core
+CSSE1001,Introduction to Software Engineering,2,1,"1,2",https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,BCompSc core
+CSSE2002,Programming in the Large,2,2,"1,2",https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,BCompSc core
+CSSE2010,Introduction to Computer Systems,2,2,"1,2",https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,BCompSc core
+INFS1200,Introduction to Information Systems,2,1,"1,2",https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,BCompSc core
+MATH1061,Discrete Mathematics,2,1,"1,2",https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,BCompSc core option
+MATH1081,Advanced Discrete Mathematics,2,1,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,BCompSc core option
+STAT1201,Analysis of Scientific Data,2,1,"1,2,S",https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,BCompSc core option for 2022 commencement
+STAT1301,Advanced Analysis of Scientific Data,2,1,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,BCompSc core option for 2022 commencement
+DECO2500,Human-Computer Interaction,2,2,"1,2",https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Programming Languages major elective option
+INFS2200,Relational Database Systems,2,2,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Programming Languages major elective option
+COMP2140,Web/Mobile Programming,2,2,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Programming Languages major compulsory
+COMP3400,Functional and Logic Programming,2,3,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Programming Languages major compulsory
+COMP4403,Compilers and Interpreters,2,4,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Programming Languages major compulsory
+CSSE2310,Computer Systems Principles and Programming,2,2,"1,2",https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Programming Languages major compulsory
+CSSE3100,Reasoning About Programs,2,3,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Programming Languages major compulsory
+DECO1400,Introduction to Web Design,2,1,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Programming Languages major compulsory
+DECO3801,Design Computing Studio 3 - Build,2,3,"1,2",https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Programming Languages major compulsory
+COMP1100,Introduction to Software Innovation,2,1,"1,2",https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / no-major introductory pool
+COSC2500,Numerical Methods in Computational Science,2,2,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / no-major introductory pool
+DATA2001,Fundamentals of Data Science,2,2,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Discontinued; substitution COMP2011
+COMP2011,Fundamentals of Data Science,2,2,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Approved substitution for DATA2001
+DECO2801,Human-Centre AI,2,2,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / no-major introductory pool
+MATH1051,Calculus & Linear Algebra I,2,1,"1,2,S",https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program/breadth elective option
+MATH1071,Advanced Calculus & Linear Algebra I,2,1,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective option
+COMP3301,Operating Systems Architecture,2,3,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+COMP3320,Vulnerability Assessment and Penetration Testing,2,3,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+COMP3702,Artificial Intelligence,2,3,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+COMP3710,Pattern Recognition and Analysis,2,3,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+COMP3820,Digital Health Software Project,2,3,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+COMP4702,Machine Learning,2,4,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+COMP4703,Natural Language Processing,2,4,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+COMS3200,Computer Networks I,2,3,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+COSC3000,"Visualization, Computer Graphics & Data Analysis",2,3,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+COSC3500,High-Performance Computing,2,3,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+CSSE3012,The Software Process,2,3,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+CSSE3006,Special Projects in Computer Systems & Software Engineering,2,3,,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+CSSE3200,"Software Engineering Studio: Design, Implement & Test",2,3,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+CYBR3000,Information Security,2,3,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+DECO3500,Social and Mobile Computing,2,3,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+INFS3200,Advanced Database Systems,2,3,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+INFS3202,Web Information Systems,2,3,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+INFS3208,Cloud Computing,2,3,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+INFS4203,Data Mining,2,4,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+INFS4205,Advanced Techniques for High Dimensional Data,2,4,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+MATH3201,Scientific Computing: Advanced Techniques & Applications,2,3,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+MATH3202,Operations Research & Mathematical Planning,2,3,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+MATH3302,Coding & Cryptography,2,3,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Program elective / advanced pool
+DECO1100,Design Thinking,2,1,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Breadth elective
+DECO1800,Design Computing Studio 1 - Interactive Technology,2,1,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Breadth elective
+DECO2300,Digital Prototyping,2,2,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Breadth elective
+DECO2800,Design Computing Studio 2 - Testing & Evaluation,2,2,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Discontinued; substitution DECO2850
+DECO2850,Design Computing Studio 2 - Interaction Design,2,2,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Approved substitution for DECO2800
+DECO3850,Physical Computing Studio,4,3,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Breadth elective; 4 units
+ENGG1300,Introduction to Electrical Systems,2,1,"1,2",https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Breadth elective
+ENGG1600,Introduction to Research Practices - The Big Issues,2,1,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Breadth elective
+MATH1050,Mathematical Foundations,2,1,"1,2",https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Breadth elective
+MATH1052,Multivariate Calculus & Ordinary Differential Equations,2,1,"1,2,S",https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Breadth elective
+MATH2001,Calculus & Linear Algebra II,2,2,"1,2,S",https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Breadth elective
+MATH2301,Linear & Abstract Algebra & Number Theory,2,2,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Breadth elective
+MATH2302,Discrete Mathematics II,2,2,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Breadth elective
+MATH3104,Mathematical Biology,2,3,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Breadth elective
+SCIE1000,Theory & Practice in Science,2,1,"1,2,S",https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Breadth elective
+SCIE2100,Bioinformatics 1: Introductions,2,2,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Breadth elective
+STAT2003,Mathematical Probability,2,2,1,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Breadth elective
+STAT2004,Statistical Modelling & Analysis,2,2,2,https://eecs.uq.edu.au/files/26592/BCompSc%20Checklist%202021-2025%20Continuing.pdf,Breadth elective
