@@ -43,31 +43,8 @@ uni_utils/
 
 ## Setup
 
-Each utility is its own small Node.js project.
+Each utility is its own small Node.js project. For use, go into the project you want to use and read their respective README.md files
 
-Go into the project you want to use:
-
-```bash
-cd course_progression
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the script:
-
-```bash
-npm run check
-```
-
-or, depending on the project:
-
-```bash
-node index.js
-```
 ## Disclaimer
 
 These tools are personal planning utilities only. Please **do not** use them as a source of truth for official degree progression, GPA, graduation eligibility, or program advice.
