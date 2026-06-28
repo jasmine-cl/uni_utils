@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "csv-parse": "^7.0.0"
+  }
+}
