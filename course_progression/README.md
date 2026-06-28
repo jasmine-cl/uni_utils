@@ -26,6 +26,7 @@ Install dependencies:
 ```bash
 npm install
 ```
+Add your [transcript CSV](#transcript-format) file to `data/transcript.csv`.
 
 ## Run
 
